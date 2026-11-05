@@ -1,0 +1,26 @@
+{
+  "title": "Dark Trance Bass Motifs",
+  "study": "z2901",
+  "bpm": 138,
+  "source_audio": "preview/dark-trance-bass-motifs-simple-synth-preview.mp3",
+  "source_audio_sha256": "3e6a7678210787095182ae48a7725722b38fd50eabdbf3d0ed1fb36281c3e437",
+  "source_midi": "midi/z2901-dark-trance-bass-motifs-opening/z2901-dark-trance-bass-motifs-opening-combined.mid",
+  "source_midi_sha256": "993ab60ac25efd6f24809b14e22778267992ba90fee8204c6481863a4d3c3f2e",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "64cb6aefd085b2f7550e28c6f8e5ad9d32342b531502800c803fa6e945edb5de",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "f64da28607757e03687c14a9e8ee58dfb8dc556172c64e69964eb4d44b81e58a",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "1b7b0e797bd5157fe801ab5b7017d5fb98295d21eea58171129965969e2622e6",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

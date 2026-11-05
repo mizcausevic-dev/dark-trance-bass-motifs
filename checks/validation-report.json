@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:57.246087+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2901-dark-trance-bass-motifs-opening/chord_pulse.mid",
+      "bytes": 1236,
+      "sha256": "d9c8080819fb840f6952351e462075d5534147effed8e12a18c443466b159e57",
+      "errors": []
+    },
+    {
+      "path": "midi/z2901-dark-trance-bass-motifs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "2512f0024104c8160b3ad2856bcc2e165b15ffe0f3b5af09a4d74254b4c4f04d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2901-dark-trance-bass-motifs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2901-dark-trance-bass-motifs-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "6fec5954d1ae8d89614bbcf83463d888c5f24bbc63e7a203f7b1027ce93746d3",
+      "errors": []
+    },
+    {
+      "path": "midi/z2901-dark-trance-bass-motifs-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "49239aad949a9cef0afe4c76b26d88012010ddab7e85dde7cc4aa1f0405e5919",
+      "errors": []
+    },
+    {
+      "path": "midi/z2901-dark-trance-bass-motifs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f7fa86abf3957163d34d121fa7c03b36ac7b0e81da6d45b77f25b182123e6906",
+      "errors": []
+    },
+    {
+      "path": "midi/z2901-dark-trance-bass-motifs-opening/z2901-dark-trance-bass-motifs-opening-combined.mid",
+      "bytes": 6041,
+      "sha256": "993ab60ac25efd6f24809b14e22778267992ba90fee8204c6481863a4d3c3f2e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2902-dark-trance-bass-motifs-variation/chord_pulse.mid",
+      "bytes": 1236,
+      "sha256": "96dc810d43091e3c7e2f66837dd2b0a167dd4f4d983cf57985b54dd0cc600b73",
+      "errors": []
+    },
+    {
+      "path": "midi/z2902-dark-trance-bass-motifs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f6fb27480c651445f3bddbd3a0083c7525d08f3bc637fa35a5203b8896330272",
+      "errors": []
+    },
+    {
+      "path": "midi/z2902-dark-trance-bass-motifs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2902-dark-trance-bass-motifs-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "ed7f91702f5e4be23ded4269b5c9d711f1bbd813c5e70d8c130cdfcd7a6a9eda",
+      "errors": []
+    },
+    {
+      "path": "midi/z2902-dark-trance-bass-motifs-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "8f75baeaf369102bf53f62389cdb3780a45944d4117d60ffb8d4f6cc375e5ecf",
+      "errors": []
+    },
+    {
+      "path": "midi/z2902-dark-trance-bass-motifs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cd594cc2f2eac5630514b55dce7cf61b249402ed15468dec454e1e6b648ad2d6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2902-dark-trance-bass-motifs-variation/z2902-dark-trance-bass-motifs-variation-combined.mid",
+      "bytes": 6040,
+      "sha256": "a3812842693e912c1133b8cae82d252455556c7ecc0c48f00735ba2adedf8274",
+      "errors": []
+    },
+    {
+      "path": "midi/z2903-dark-trance-bass-motifs-contrast/chord_pulse.mid",
+      "bytes": 1236,
+      "sha256": "47525c1aef3934752077a66ab29879b0a0743752d5547098bed7aac7696116b9",
+      "errors": []
+    },
+    {
+      "path": "midi/z2903-dark-trance-bass-motifs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f82d0a865056d5935dd071248124b15b9d12fdd7afcbd9babd0664ecb3127214",
+      "errors": []
+    },
+    {
+      "path": "midi/z2903-dark-trance-bass-motifs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2903-dark-trance-bass-motifs-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "b42d3da459d3b7f1ea429fd0f847ddd5174edffe30677f126e25bf69aac1394d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2903-dark-trance-bass-motifs-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "69445a535b13e366e0b789ff6a082c579bd90e54d209c00b122b81e2e2e9dd3d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2903-dark-trance-bass-motifs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "38e2b3764793fd124c306ccf4f76256cd7aa421c4d641b3f4cbe0c3ca7c0340c",
+      "errors": []
+    },
+    {
+      "path": "midi/z2903-dark-trance-bass-motifs-contrast/z2903-dark-trance-bass-motifs-contrast-combined.mid",
+      "bytes": 6006,
+      "sha256": "259544950bda290e83fba39c6f2b886c99e5d3fa9dedaef176272cc492a221bf",
+      "errors": []
+    },
+    {
+      "path": "midi/z2904-dark-trance-bass-motifs-return/chord_pulse.mid",
+      "bytes": 1236,
+      "sha256": "c2a1049e53e1f707358f74a5597c27679a535f72abb8d32a021dbacf4597695d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2904-dark-trance-bass-motifs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dbbfcccc61d201b7fa0eda67f4d0cefae65253b9489c02e0303beaf87ff73ea9",
+      "errors": []
+    },
+    {
+      "path": "midi/z2904-dark-trance-bass-motifs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2904-dark-trance-bass-motifs-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "69db504eb59fc9c36a7acfb8971553c9494863c163a0c9e276aaed23ec3025ca",
+      "errors": []
+    },
+    {
+      "path": "midi/z2904-dark-trance-bass-motifs-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "2a0b04b865f574a092d980368adcfa03d368c5fe679acf8e68379aa96fbd15bc",
+      "errors": []
+    },
+    {
+      "path": "midi/z2904-dark-trance-bass-motifs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0e56ca37c7d8d9511dedca90f5595fc6fb73cef55195c76bd83c56bbac205b73",
+      "errors": []
+    },
+    {
+      "path": "midi/z2904-dark-trance-bass-motifs-return/z2904-dark-trance-bass-motifs-return-combined.mid",
+      "bytes": 6006,
+      "sha256": "36c5b0a349cbd4adac6bfccfa54bd47203d14cce568e2a6d0fcc4a1ad21adf6d",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
