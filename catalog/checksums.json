@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dark-trance-bass-motifs-midi.zip",
-      "bytes": 31863,
-      "sha256": "dd465c43025f23cea02e9a601883efc7a4f87528405c6fec0e76645c24d71521"
+      "bytes": 32850,
+      "sha256": "84d86804413becf8607a8e16a3f4722cb44264eea0330f89890bb42efa6dc1c9"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9996,
-      "sha256": "8d260230579deed44bd04e434f95441be3300d7abc14adae6702d65d8d8bcf2a"
+      "bytes": 10186,
+      "sha256": "c6ef9a0e4a364dd2e4f7c5225770fe6aa34706390602617c010324d764dafe1f"
     },
     {
       "path": "midi/z2901-dark-trance-bass-motifs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "36c5b0a349cbd4adac6bfccfa54bd47203d14cce568e2a6d0fcc4a1ad21adf6d"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dark-trance-bass-motifs-simple-synth-preview.mp3",
       "bytes": 1349216,
       "sha256": "3e6a7678210787095182ae48a7725722b38fd50eabdbf3d0ed1fb36281c3e437"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3986,
-      "sha256": "291b312eee968d4a89e94fac11df15d9b1d3df486eb7e7fecbaa38a4c46556c0"
+      "bytes": 4101,
+      "sha256": "26747892d00f855a781f92de7840be7ecac6fb31b18178193ca57969c7bf2cda"
     },
     {
       "path": "social/instagram/caption.txt",
